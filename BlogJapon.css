@@ -11,6 +11,7 @@ body
 	background: url("istockphoto-463116257-612x612.jpg") center;
 	background-size: cover;
     background-repeat: no-repeat;
+	text-align: center;
 }
 
 .marseille /* .marseille est une balise placé dans mon fichier html, grâce à ça je sais que mon paragraphe balisé "marseille" sera rouge */
